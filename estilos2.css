@@ -84,7 +84,7 @@ footer p{
     margin: 11px;
 }
 .carousel #content{
-    background: linear-gradient(to right, #dbf5a6, #b5d8f0);
+    background: linear-gradient(to right, #dbf5a6, #d6f0b5);
 }
 .carousel #content2{
     background: radial-gradient(circle at center, #ccf893, #52f1f6);
@@ -161,11 +161,11 @@ footer p{
 }
 
 .carousel2 #content3 {
-    background: linear-gradient(to top, #efbd76, #a1f859);
+    background: linear-gradient(to top, #f4a536, #f69525);
 }
 
 .carousel2 #content4 {
-    background: radial-gradient(circle at center, #85ede3, #44a2f5);
+    background: radial-gradient(circle at center, #85ede3, #0b79da);
 }
 
 .carousel2-inner {
